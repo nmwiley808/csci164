@@ -29,7 +29,19 @@ The course emphasizes both conceptual understanding and hands-on implementation 
 
 ---
 
+## Repository Structure
 
+```
+CSCI164/
+│
+├── homework_assignments/        # Homework Assignments
+├── programming_assignments/     # Programming Assignments
+├── project/                     # Term Project
+├── CSCI164_Textbook.pdf         # Course Textbook
+└── README.md                    # Repository Documentation
+```
+
+---
 
 ## 🛠 Technologies & Tools
 
