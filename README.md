@@ -42,6 +42,7 @@ The course emphasizes both conceptual understanding and hands-on implementation 
 
 - **README.md**  
   Repository documentation
+
 ---
 
 ## 🛠 Technologies & Tools
