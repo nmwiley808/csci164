@@ -41,7 +41,7 @@ CSCI164/
 ```
 ---
 
-## 🛠 Technologies & Tools
+## Technologies & Tools
 
 This repository may include:
 
@@ -57,7 +57,7 @@ This repository may include:
 
 ---
 
-## 📊 Skills Developed
+##  Skills Developed
 
 Throughout this course, I am developing skills in:
 
