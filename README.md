@@ -33,8 +33,7 @@ The course emphasizes both conceptual understanding and hands-on implementation 
 
 ```
 CSCI164/
-│
-├── in-class_programming_assignments/  # In-Class Programming Assignments   
+│ 
 ├── project/                           # Term Project
 ├── CSCI164_Textbook.pdf               # Course Textbook
 └── README.md                          # Repository Documentation
